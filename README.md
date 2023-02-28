@@ -1,1 +1,1 @@
-First homework for the course "CI/CD/DevOps" 
+First homework for the course "CI/CD"/"DevOps"
